@@ -116,3 +116,13 @@
     background-size: 0 2px, 100% 2px;
   }
 }
+
+button,
+.button {
+  margin: 5px;
+  border-color: black;
+  border-radius: 5px;
+  border-width: 1px;
+  background-color: grey;
+  padding: 1px;
+}
